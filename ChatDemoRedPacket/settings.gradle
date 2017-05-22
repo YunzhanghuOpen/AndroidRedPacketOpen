@@ -1,3 +1,5 @@
 include ':app', ':EaseUI',':redpacketui-open'
 project(':EaseUI').projectDir = new File('../EaseUI')
+project(':redpacketui-open').projectDir = new File('../redpacketui-open')
+
 
