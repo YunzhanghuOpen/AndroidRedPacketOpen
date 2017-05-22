@@ -22,7 +22,7 @@ android {
 
 dependencies {
     compile project(':redpacketui-open')
-    compile project(':EaseUI')
+    compile project(':easeui')
     compile fileTree(dir: 'libs', include: '*.jar')
     compile 'com.android.support:multidex:1.0.1'
 }
